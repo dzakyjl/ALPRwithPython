@@ -1,0 +1,2 @@
+
+In Python, Automatic License Plate Recognition (ALPR) employs computer vision to extract license plate details from images or videos. The process involves steps like image acquisition, preprocessing, vehicle detection, plate localization, character segmentation, OCR (utilizing Tesseract), and post-processing. Integration with databases is optional for validation. Utilizing OpenCV and Tesseract in Python provides a robust and comprehensive ALPR solution.
